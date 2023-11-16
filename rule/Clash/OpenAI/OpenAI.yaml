@@ -21,6 +21,6 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,oaiusercontent.com
-  - DOMINA-SUFFIX,statsigapi.net
-  - DOMINA-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,statsigapi.net
+  - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-KEYWORD,openai
